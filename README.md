@@ -10,12 +10,12 @@ we can help auditors to narrow down auditing contents and save much time.
 
 (I am still working on these models to improve the detecting accuracy, will upload the completed version later...)
 
-Overview
+##Overview
 I used LSTM and DBSCAN to do anomaly detection for time series air pollution data.
 
-Quickstart
+##Quickstart
 Python3
 
-Data
+##Data
 I apply my method on the pollution datasets.
 
